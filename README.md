@@ -1,15 +1,11 @@
-# st
-
-This is my fork of st used to track my own changes to the project.
-
 # st - simple terminal
+https://img.shields.io/github/last-commit/griffinpj/st
 
 This is a fork of the suckless [st](https://st.suckless.org/) terminal, a simple, lightweight, and highly customizable terminal emulator for X.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
@@ -17,15 +13,14 @@ This is a fork of the suckless [st](https://st.suckless.org/) terminal, a simple
 
 ## Introduction
 
-The st terminal is designed to be simple, efficient, and reliable. It follows the suckless philosophy of keeping things simple and avoiding unnecessary bloat. This fork aims to provide additional features and improvements while maintaining the core principles of st.
+The st terminal is designed to be simple, efficient, and reliable. It follows the suckless philosophy of keeping things simple and avoiding unnecessary bloat. This fork aims to provide additional features for my uses and support my local environement for development (macOS).
 
 ## Installation
 
 To install st, follow these steps:
 
-## Prerequisites
+### Prerequisites
 
-### macOS
 - Need to install xquartz (for X11 support) and fontconfig
     ```shell
     brew install xquartz
