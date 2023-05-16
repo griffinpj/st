@@ -1,5 +1,5 @@
 # st - simple terminal
-https://img.shields.io/github/last-commit/griffinpj/st
+![GitHub last commit](https://img.shields.io/github/last-commit/griffinpj/st)
 
 This is a fork of the suckless [st](https://st.suckless.org/) terminal, a simple, lightweight, and highly customizable terminal emulator for X.
 
